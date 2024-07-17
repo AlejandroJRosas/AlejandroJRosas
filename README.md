@@ -1,5 +1,5 @@
 [![committers.top badge](https://user-badge.committers.top/venezuela/AlejandroJRosas.svg)](https://user-badge.committers.top/venezuela/AlejandroJRosas)
-<img src="https://komarev.com/ghpvc/?username=Noralgorithm&style=flat-square"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Noralgorithm&style=flat-square"/> -->
 
 ## Hi there 👋
 
@@ -16,6 +16,8 @@ Someday I'll put something here
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrojrosas&layout=compact&theme=dracula" alt="ajrosas" height="200px">
+
 ### Frontend Frameworks
 
 <p>
@@ -24,17 +26,23 @@ Someday I'll put something here
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="40" height="40" /> -->
 </p>
 
-### Backend Tools
+### Backend Frameworks and DBMSs
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
 </p>
 
 ### DevOps
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="40" height="40" />
+</p>
+
+### Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="40" height="40" />
 </p>
 
  ### Currently Learning
@@ -47,6 +55,5 @@ Someday I'll put something here
 
 ---
 
- <img src="https://github-readme-stats.vercel.app/api?username=alejandrojrosas&show_icons=true&locale=en&theme=dracula" alt="ajrosas" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrojrosas&layout=compact&theme=dracula" alt="cariea" width="auto" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=alejandrojrosas&show_icons=true&locale=en&theme=dracula" alt="ajrosas" />
 
