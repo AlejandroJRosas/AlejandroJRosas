@@ -1,5 +1,5 @@
 [![committers.top badge](https://user-badge.committers.top/venezuela/AlejandroJRosas.svg)](https://user-badge.committers.top/venezuela/AlejandroJRosas)
-<!-- <img src="https://komarev.com/ghpvc/?username=Noralgorithm&style=flat-square"/> -->
+<img src="https://komarev.com/ghpvc/?username=AlejandroJRosas&color=orange&style=flat&abbreviated=true"/>
 
 ## Hi there 👋
 
