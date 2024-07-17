@@ -1,16 +1,52 @@
+[![committers.top badge](https://user-badge.committers.top/venezuela/AlejandroJRosas.svg)](https://user-badge.committers.top/venezuela/AlejandroJRosas)
+<img src="https://komarev.com/ghpvc/?username=Noralgorithm&style=flat-square"/>
+
 ## Hi there 👋
 
-<!--
-**AlejandroJRosas/AlejandroJRosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Someday I'll put something here
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <!-- If your are seeing this, something is being cooked 🍳 -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+</p>
+
+### Frontend Frameworks
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <!-- I have use it but I don't feel like showing it yet -->
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="40" height="40" /> -->
+</p>
+
+### Backend Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />   
+</p>
+
+### DevOps
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="40" height="40" />
+</p>
+
+ ### Currently Learning
+ <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" width="40" height="40" />
+ </p>
+
+---
+
+ <img src="https://github-readme-stats.vercel.app/api?username=alejandrojrosas&show_icons=true&locale=en&theme=dracula" alt="ajrosas" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrojrosas&layout=compact&theme=dracula" alt="cariea" width="auto" height="200">
+
